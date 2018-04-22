@@ -19,7 +19,7 @@
 	"require": {
 		"ext-curl": "*",
 		"nette/tester": "~2.0@dev",
-		"symfony/process": "~2.6"
+		"symfony/process": "~4"
 	},
 	"autoload": {
 		"psr-4": {
